@@ -33,7 +33,7 @@ and gain a better sense of the school’s environment.
 Things to keep in mind during the process
 -----------
 * How does the campus feel?
-* Are there spots you can work?
+  * Are there spots you can work?
 * Do current students seem happy + feel supported?
 * Does the PI maintain a work/life balance? When do they answer emails?
 * Is the advisor-student relationship formal or casual?
@@ -42,64 +42,64 @@ Things to keep in mind during the process
 
 Questions for you
 -----------
-* Why do you want a graduate degree? / Why do you want to do research?
-* What other schools did you apply to?
-* Why do you think this program is a good fit for you? Why this program?
-* Tell us about…(one of your projects in your personal statement)?
+* **Why** do you want a **graduate degree**? / Why do you want to do research?
+* What **other schools** did you apply to?
+* Why do you think this program is a good fit for you? **Why this program?**
+* Tell us about... (**one of your projects** in your personal statement)?
   * Why are your experiences critical to the research you want to do?
   * Who will your research help?
-* What are your strengths and weaknesses as a student?
-* What are your future plans?
+* What are **your strengths and weaknesses** as a student?
+* What are **your future plans**?
 
 Questions to Ask Program Admissions Officers
 ----------
-* Required classes
+* **Required classes**
   * What are the degree requirements?
-* Length: How long does it typically take students to complete their degree?
-* Preparation for future + funding
+* **Length:** How long does it typically take students to complete their degree?
+* **Preparation for future + funding**
   * Are teaching assistantships available?
   * What opportunities are available to get involved with research, internships, or gain experience outside the coursework?
   * How accessible are the professors?
-* Future trajectory:
+* **Future trajectory:**
   * Where do graduates get hired?
   * Does the university provide support for applying to the next stage of my journey?
 
 Questions to Ask Potential professors
 ---------
-* Describe your ideal graduate student
-* What will my trajectory look like for this program/working in this lab?
-* Advising
+* **Describe your ideal graduate student**
+* What will **my trajectory** look like for this program/working in this lab?
+* **Advising**
   * How/when do you give feedback?
   * 1:1 meetings
     * Frequency?
     * Scheduled or as needed?
     * Typical length?
-* Lab culture
+* **Lab culture**
   * What are the lab demographics?
   * How many other students are you supervising/are currently in the group?
   * Are there lab activities/interactions of lab-mates outside of the lab?
-* Lab meetings
+* **Lab meetings**
   * Frequency?
   * Structure?
-* Day-to-day Work
-  * What does the project look like?
+* **Day-to-day Work**
+  * What does the project(s) you have in mind for me look like?
     * Who defines them?
     * Are they collaborative?
     * Who assigns roles?
   * What skillsets can I expect to develop from working here?
   * What problems or obstacles do you foresee me running into with my project?
-* Funding
+* **Funding**
   * How does funding work in your lab?
   * Will I be able to gain experience writing research proposals?
-* Resources
+* **Resources**
   * Is there a physical space in the lab for me?
   * What resources does your lab have access to?
-* Publications + Writing
+* **Publications + Writing**
   * When do papers get published?
   * What is your expectation for publication frequency?
   * How do you prefer to be involved in manuscript writing?
   * How do you prefer to be involved in the PhD proposal/thesis writing?
-* Future
+* **Future**
   * What have your students/advisees gone on to do?
 
 Questions to Ask Potential professors’ students
@@ -107,7 +107,7 @@ Questions to Ask Potential professors’ students
   * What do you like about this lab?
   * What would you change about this lab?
   * Are you happy? *note: this will likely induce nervous laughter. Many students are focused on stressful things, and academia is a challenging environment to find joy in as an apprentice. But their answers might include some helpful information*
-  * Lab organization
+  * **Lab organization**
     * If there’s a problem with —, who do you reach out to?
       * If the cluster goes down?
       * Data are corrupted or missing?
@@ -115,13 +115,13 @@ Questions to Ask Potential professors’ students
     * Lab meetings
       * Frequency?
       * Structure?
-  * Lab culture
+  * **Lab culture**
     * What kind of community does the lab have?
     * How collaborative is the lab?
-  * Research freedom and style
+  * **Research freedom and style**
     * Who defines the projects/thesis topics?
     * Are they collaborative?
-  * Advising style
+  * **Advising style**
     * 1:1 meetings
       * Frequency?
       * Scheduled or as needed?
@@ -135,14 +135,14 @@ Questions to Ask Potential professors’ students
     * What was your relationship with your advisor like?
     * Do they monitor your time in lab?
     * Are you expected to work on weekends? Very late?
-  * Publications
+  * **Publications**
     * How is the professor involved in manuscript writing?
     * Have you been able to publish?
-  * Funding
+  * **Funding**
     * Where did you get your funding?
     * Did you get experience/support applying for funding?
-  * Day-to-day work
+  * **Day-to-day work**
     * What skillsets have you developed working here?
-  * Program
+  * **Program**
     * How rigorous was the program?
     * What did you learn?
